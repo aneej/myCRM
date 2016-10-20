@@ -10,6 +10,9 @@ public class Person {
 	public String getName() {
 		return  name ;
 	}
+	
+	// new  attribute added 
+	int age  ;
 
 
 }
