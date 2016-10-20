@@ -5,6 +5,11 @@ public class Person {
 	**/
 
 	// define attributes & methods here
+	String name ;
+	
+	public String getName() {
+		return  name ;
+	}
 
 
 }
